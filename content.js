@@ -25,7 +25,7 @@ const SITE = {
   /* ---------- SOCIAL / CONTACT LINKS ---------- */
   github:    "https://github.com/KamolDas",
   twitter:   "https://x.com/KDKamol",
-  linkedin:  "",
+  linkedin:  "https://www.linkedin.com/in/kamol-das-7a4b0b1b7/",
   youtube:   "https://www.youtube.com/@RSVLab",
   email:     "kamol.mbio@gmail.com",
   phone:     "01775510351",
