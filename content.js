@@ -24,11 +24,11 @@ const SITE = {
 
   /* ---------- SOCIAL / CONTACT LINKS ---------- */
   github:    "https://github.com/KamolDas",
-  twitter:   "",
+  twitter:   "https://x.com/KDKamol",
   linkedin:  "",
-  youtube:   "",
-  email:     "TODO@example.com",
-  phone:     "TODO",
+  youtube:   "https://www.youtube.com/@RSVLab",
+  email:     "kamol.mbio@gmail.com",
+  phone:     "01775510351",
   location:  "Department of Microbiology, University of Chittagong · Ramakrishna Mission, Hathazari, Chittagong, Bangladesh",
 
   /* ---------- LINK BACK TO ECOBIOREMEDIATION LAB ---------- */
@@ -199,7 +199,7 @@ const SITE = {
   collab: {
     title: "In Collaboration with EcoBioremediation Lab",
     text:  "RSV Lab links with EcoBio Lab to connect microbiology/AMR research with environmental biotechnology.",
-    cta:   "Visit EcoBio Lab",
+    cta:   "Visit RSV Lab",
   },
 
   /* ---------- CONTACT ---------- */
